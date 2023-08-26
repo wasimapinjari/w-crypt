@@ -52,6 +52,7 @@ html {
 }
 
 body {
+  min-height: 100vh;
   color: #FFFFFF;
   font-size: 1.6rem;
   font-family: 'Poppins', sans-serif;
